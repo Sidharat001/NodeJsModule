@@ -1,0 +1,2 @@
+# remove all node_modules folder from subdirectory
+**/node_modules/
